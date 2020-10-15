@@ -6,4 +6,4 @@ Input data requirements:
 The topology of the channel network, for example, channel 1, from node 1 to node 2, etc.    
 Horizontal fluid flow solution, i.e. fluid velocity in each channel of the grid.
 The software asks other input during running. 
-This software requires the executable file RANPESA.EXE, which estimates the random number. The input of the latter code requires the file name “prob.dat” in the same directory.  
+This software requires the executable file RANPESA.EXE, which estimates the random number. The input of the latter code requires the file name “prob.dat” in the same directory.  It will be upload as soon as FAQs and Licence files will be ready. 
